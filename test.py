@@ -1,3 +1,3 @@
-firstname = input("First name?: ")
-lastname = input("Last name?: ")
+firstname = input("Enter first name: ")
+lastname = input("Enter last name: ")
 print(firstname, lastname)
